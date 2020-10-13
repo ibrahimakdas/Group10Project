@@ -3,6 +3,8 @@ public class Group10Class {
         System.out.println("First Hello");
 
         System.out.println("second hello");
+
+        System.out.println("third hello");
     }
 
 
